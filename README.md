@@ -1,1 +1,18 @@
-# 20200418_ProtoOut_-hackathon
+# 説明
+2020/4/18 にオンライン開催された下記のハッカソンで、自分が担当した部分のデータ等を置いたリポジトリです。
+チーム「Meeting Now」の作品である「みーてぃんぐなう」の、全体の中のデバイス関連部分が主です。
+
+●ProtoOutハッカソン テーマ： リモートワーク #ProtoOut - connpass
+　https://protoout.connpass.com/event/172136/
+
+# 作品の関連URL
+
+●みーてぃんぐなう | ProtoPedia
+　https://protopedia.net/prototype/1a3f91fead97497b1a96d6104ad339f6
+
+【発表資料】 Speaker Deck
+　https://speakerdeck.com/you/meeting-now
+
+【発表用の動画】 YouTube
+　https://www.youtube.com/watch?v=tXTnmEnI9HQ
+
