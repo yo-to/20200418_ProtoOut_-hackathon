@@ -8,9 +8,9 @@
 ## 作品の関連URL
 
 - みーてぃんぐなう | ProtoPedia
--- https://protopedia.net/prototype/1a3f91fead97497b1a96d6104ad339f6
+    - https://protopedia.net/prototype/1a3f91fead97497b1a96d6104ad339f6
 - 【発表資料】 Speaker Deck </br>
--- https://speakerdeck.com/you/meeting-now
+    - https://speakerdeck.com/you/meeting-now
 - 【発表用の動画】 YouTube </br>
--- https://www.youtube.com/watch?v=tXTnmEnI9HQ
+    - https://www.youtube.com/watch?v=tXTnmEnI9HQ
 
