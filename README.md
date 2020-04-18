@@ -2,8 +2,8 @@
 2020/4/18 にオンライン開催された下記のハッカソンで、自分が担当した部分のデータ等を置いたリポジトリです。
 チーム「Meeting Now」の作品である「みーてぃんぐなう」の、全体の中のデバイス関連部分が主です。
 
-●ProtoOutハッカソン テーマ： リモートワーク #ProtoOut - connpass </br>
-　https://protoout.connpass.com/event/172136/
+- ProtoOutハッカソン テーマ： リモートワーク #ProtoOut - connpass
+    - https://protoout.connpass.com/event/172136/
 
 ## 作品の関連URL
 
