@@ -17,4 +17,3 @@
     - https://speakerdeck.com/you/meeting-now
 - 【発表用の動画】 YouTube </br>
     - https://www.youtube.com/watch?v=tXTnmEnI9HQ
-
